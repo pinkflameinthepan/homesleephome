@@ -1,0 +1,9 @@
+name: HomeSleepHome2
+version: ${project.version}
+main: me.pinkflameinpan.newhomesleephome.homesleephome2.HomeSleepHome2
+api-version: 1.16
+commands:
+  hsh:
+    description: Teleport to your bedspawn! 15 minute cooldown for teleports outside of a 150 block range.
+    usage: /hsh
+    permission: hsh.tp

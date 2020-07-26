@@ -1,0 +1,8 @@
+#CONFIG for Home Sleep Home
+
+#Amount of block range to set a cooldown for outside of that range
+amount: 10
+#Amount of time for the cooldown to last, in ticks (ticks = seconds*20)
+time: 200
+#Lists the players that have entered the cooldown, and removes them when the time is up. You should not have to worry about this one :)
+player-cooldown:
